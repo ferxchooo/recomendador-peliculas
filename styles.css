@@ -1,0 +1,118 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    /* Fondo morado sólido sin difuminar */
+    background-color: #6a0dad; 
+    color: white;
+    min-height: 100vh;
+}
+
+.header {
+    /* Encabezado fucsia sólido */
+    background-color: #ff00ff; 
+    color: white;
+    text-align: center;
+    padding: 25px;
+    border-bottom: 5px solid #ff007f; /* Línea rosa sólida */
+}
+
+.header h1 {
+    font-size: 26px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 0px black; /* Sombra dura, no difuminada */
+}
+
+.header p {
+    color: #fff;
+    font-weight: bold;
+}
+
+.card {
+    background-color: #222222; /* Fondo gris oscuro sólido */
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 30px;
+    border: 3px solid #ff007f; /* Borde rosa sólido */
+}
+
+.input-section {
+    margin-bottom: 25px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+}
+
+input {
+    width: 100%;
+    padding: 12px;
+    border: 2px solid #6a0dad; /* Borde morado */
+    background-color: #333333;
+    color: white;
+    font-size: 16px;
+    outline: none;
+}
+
+input:focus {
+    border-color: #ff00ff; /* Cambia a fucsia al escribir */
+}
+
+.botones-genero {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.btn-genero {
+    background-color: #ff007f; /* Rosa sólido */
+    color: white;
+    border: 2px solid white;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.btn-genero:hover {
+    background-color: white;
+    color: #ff007f;
+}
+
+hr {
+    border: 0;
+    height: 3px;
+    background-color: #ff00ff; /* Fucsia sólido */
+    margin: 20px 0;
+}
+
+.resultado-oculto {
+    display: none;
+}
+
+.resultado-visible {
+    display: block;
+    background-color: #111111;
+    padding: 20px;
+    margin-top: 15px;
+    border-left: 10px solid #ff007f; /* Barra lateral rosa */
+}
+
+#titulo-pelicula {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+#desc-pelicula {
+    color: #cccccc;
+    line-height: 1.5;
+}

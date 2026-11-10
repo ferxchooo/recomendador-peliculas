@@ -1,0 +1,43 @@
+    <!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cine | Fernando Rodea Obregón</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="header">
+        <h1>CINEFLIX DE FERNANDO RODEA OBREGÓN</h1>
+        <p>¿Qué vamos a ver hoy?</p>
+    </header>
+
+    <main class="card">
+        <div class="input-section">
+            <label>1. Ingresa tu edad:</label>
+            <input type="number" id="edad" placeholder="Ej. 20" min="2" max="100">
+        </div>
+
+        <div class="input-section">
+            <label>2. Elige un género para ver tu recomendación:</label>
+            <div class="botones-genero">
+                <button class="btn-genero" onclick="recomendar('Comedia')">Comedia</button>
+                <button class="btn-genero" onclick="recomendar('Acción')">Acción</button>
+                <button class="btn-genero" onclick="recomendar('Drama')">Drama</button>
+                <button class="btn-genero" onclick="recomendar('Musical')">Musical</button>
+                <button class="btn-genero" onclick="recomendar('Crimen')">Crimen</button>
+            </div>
+        </div>
+
+        <hr>
+
+        <h2>Nuestra recomendación:</h2>
+        <div id="resultado" class="resultado-oculto">
+            <h3 id="titulo-pelicula">Título</h3>
+            <p id="desc-pelicula">Descripción</p>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

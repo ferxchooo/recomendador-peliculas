@@ -1,0 +1,86 @@
+[
+    {
+        "titulo": "Intensa-Mente",
+        "genero": "Comedia",
+        "edad_min": 2, "edad_max": 12,
+        "descripcion": "Las emociones de una niña trabajan horas extras cuando se muda a una nueva ciudad.",
+        "poster": "https://es.web.img2.acsta.net/pictures/15/05/14/14/23/355157.jpg"
+    },
+    {
+        "titulo": "Coco",
+        "genero": "Musical",
+        "edad_min": 2, "edad_max": 12,
+        "descripcion": "Un niño viaja a la Tierra de los Muertos para descubrir la historia de su familia.",
+        "poster": "https://es.web.img3.acsta.net/pictures/17/10/26/10/44/2288005.jpg"
+    },
+    {
+        "titulo": "Toy Story",
+        "genero": "Aventura",
+        "edad_min": 2, "edad_max": 12,
+        "descripcion": "Los juguetes de un niño cobran vida cuando él no está presente.",
+        "poster": "https://es.web.img3.acsta.net/pictures/14/03/17/10/10/562887.jpg"
+    },
+    {
+        "titulo": "El Rey León",
+        "genero": "Musical",
+        "edad_min": 2, "edad_max": 12,
+        "descripcion": "Un joven león huye de su reino para aprender el verdadero significado de la responsabilidad.",
+        "poster": "https://es.web.img3.acsta.net/pictures/14/03/17/10/24/311910.jpg"
+    },
+    {
+        "titulo": "Spider-Man: A través del Spider-Verso",
+        "genero": "Acción",
+        "edad_min": 13, "edad_max": 17,
+        "descripcion": "Miles Morales se lanza al multiverso y se encuentra con un equipo de Spider-Personas.",
+        "poster": "https://es.web.img3.acsta.net/pictures/23/05/09/16/09/2085732.jpg"
+    },
+    {
+        "titulo": "La Sociedad de los Poetas Muertos",
+        "genero": "Drama",
+        "edad_min": 13, "edad_max": 17,
+        "descripcion": "Un profesor de inglés inspira a sus alumnos a descubrir su amor por la poesía.",
+        "poster": "https://es.web.img3.acsta.net/pictures/14/04/15/10/35/334237.jpg"
+    },
+    {
+        "titulo": "Los Juegos del Hambre",
+        "genero": "Acción",
+        "edad_min": 13, "edad_max": 17,
+        "descripcion": "Katniss Everdeen toma el lugar de su hermana en un torneo televisado a muerte.",
+        "poster": "https://es.web.img3.acsta.net/pictures/14/03/05/11/04/394747.jpg"
+    },
+    {
+        "titulo": "Chicas Pesadas",
+        "genero": "Comedia",
+        "edad_min": 13, "edad_max": 17,
+        "descripcion": "Una adolescente educada en casa entra a la preparatoria y se enfrenta a la jerarquía social.",
+        "poster": "https://es.web.img3.acsta.net/pictures/15/10/23/15/06/032483.jpg"
+    },
+    {
+        "titulo": "El Padrino",
+        "genero": "Crimen",
+        "edad_min": 18, "edad_max": 100,
+        "descripcion": "El patriarca de una dinastía del crimen organizado transfiere el control a su hijo.",
+        "poster": "https://es.web.img3.acsta.net/pictures/18/06/12/12/12/0117051.jpg"
+    },
+    {
+        "titulo": "Pulp Fiction",
+        "genero": "Crimen",
+        "edad_min": 18, "edad_max": 100,
+        "descripcion": "Las vidas de dos sicarios, un boxeador y la esposa de un gángster se entrelazan.",
+        "poster": "https://es.web.img3.acsta.net/pictures/14/03/04/10/01/292359.jpg"
+    },
+    {
+        "titulo": "El Club de la Pelea",
+        "genero": "Drama",
+        "edad_min": 18, "edad_max": 100,
+        "descripcion": "Un oficinista deprimido y un vendedor de jabón forman un club clandestino.",
+        "poster": "https://es.web.img3.acsta.net/pictures/14/03/04/10/12/285579.jpg"
+    },
+    {
+        "titulo": "El Lobo de Wall Street",
+        "genero": "Comedia",
+        "edad_min": 18, "edad_max": 100,
+        "descripcion": "Basada en la verdadera historia del ascenso y caída de Jordan Belfort en Wall Street.",
+        "poster": "https://es.web.img3.acsta.net/pictures/13/12/16/16/09/359218.jpg"
+    }
+]
